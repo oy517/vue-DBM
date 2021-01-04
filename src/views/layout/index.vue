@@ -6,11 +6,6 @@
       <sidebar slot="left"></sidebar>
       <router-view slot="content" v-loading="routerLoading"></router-view>
     </layout-content>
-    <layuot-footer>
-      <a class="footer-content" href="https://github.com/calebman/vue-DBM">
-        点此进入代码仓库
-      </a>
-    </layuot-footer>
   </div>
 </template>
 

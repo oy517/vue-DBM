@@ -400,7 +400,7 @@ export default {
   created() {
     this.dataFilterRules = datatableUtils.dataFilterRule;
     let table = {
-      tableName: "个人信息表",
+      tableName: "信息表",
       dataCount: 1205,
       cols: [
         {

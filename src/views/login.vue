@@ -33,11 +33,6 @@
         </el-form-item>
       </el-form>
     </div>
-    <div class="login-footer">
-      <a href="https://github.com/calebman/vue-DBM">
-        点此进入代码仓库
-      </a>
-    </div>
   </div>
 </template>
 

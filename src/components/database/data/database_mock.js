@@ -1,7 +1,7 @@
 function mockData() {
     return [
         {
-            "tableName": "个人信息表",
+            "tableName": "信息表",
             "dataCount": 144,
             "cols": [
                 {
