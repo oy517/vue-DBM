@@ -4,6 +4,7 @@
     <span class="fixed-center">企业信息详情页</span>
     <br/>
     <br/>
+    <br/>
     <span class="fixed-top" >企业评分：99 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
     &nbsp&nbsp&nbsp&nbsp&nbsp企业等级：AA</span>
     <br/>
